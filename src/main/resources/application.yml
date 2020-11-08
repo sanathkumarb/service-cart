@@ -1,0 +1,7 @@
+info:
+  app:
+    name: Cart Application
+
+server:
+  port: 5000
+
